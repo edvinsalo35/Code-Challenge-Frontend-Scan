@@ -40,7 +40,7 @@ Implement a simple custom editor with the below requirements.
 * Feel free to refactor or restructure as needed. 
 * For mid-level frontend developer, it's ok if you complete the blockquote functionality and Ctrl + Z part only, and if you wish higher rate and high-level frontend acknowledgement, you have to complete image functionality also. 
 * CSS and JS added to support feature may be included in separate files
- * Css can be writeten using SASS, LESS while JS can be written based on TypeScript or Ecma2015.
+* Css can be writeten using SASS, LESS while JS can be written based on TypeScript or Ecma2015.
 
 ## Suggestion Tips
 * To ease blockquote moving, you can consider selectize js usage. 
